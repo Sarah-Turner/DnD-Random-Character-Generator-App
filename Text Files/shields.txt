@@ -1,0 +1,14 @@
+None
+0
+false
+true
+false
+0
+false
+Shield
+2
+false
+true
+false
+0
+false
